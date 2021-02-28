@@ -1,0 +1,6 @@
+env/
+.vscode/
+.ipynb_checkpoints/
+bulldozer-price/data/bluebook-for-bulldozers.zip
+bulldozer-price/data/train_tmp.csv
+dog-vision/dog-breed-vision/dog-breed-identification.zip
